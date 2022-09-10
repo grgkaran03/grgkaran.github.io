@@ -17,9 +17,10 @@
 }
 
 .container img{
-    width: 540px;
-    height:auto;
-    object-fit: contain;
+    width: 250px;;
+    height:250px;
+    top:50%;
+    left:50%;
 }
 
 .container h1{
