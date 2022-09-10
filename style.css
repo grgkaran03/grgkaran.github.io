@@ -16,6 +16,12 @@
 
 }
 
+.container img{
+    width: 540px;
+    height:auto;
+    object-fit: contain;
+}
+
 .container h1{
     position: absolute;
     top: 40%;
