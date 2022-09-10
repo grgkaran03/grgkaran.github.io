@@ -16,6 +16,10 @@
 
 }
 
+.container img{
+    max-width: 100%;
+    height:auto;
+}
 
 .container h1{
     position: absolute;
